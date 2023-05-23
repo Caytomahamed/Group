@@ -1,0 +1,16 @@
+C:\Users\ALSAKB\Desktop\C#\Groups\Groups\bin\Debug\Groups.exe.config
+C:\Users\ALSAKB\Desktop\C#\Groups\Groups\bin\Debug\Groups.exe
+C:\Users\ALSAKB\Desktop\C#\Groups\Groups\bin\Debug\Groups.pdb
+C:\Users\ALSAKB\Desktop\C#\Groups\Groups\obj\Debug\Groups.csproj.AssemblyReference.cache
+C:\Users\ALSAKB\Desktop\C#\Groups\Groups\obj\Debug\Groups.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALSAKB\Desktop\C#\Groups\Groups\obj\Debug\Groups.Login.resources
+C:\Users\ALSAKB\Desktop\C#\Groups\Groups\obj\Debug\Groups.Home.resources
+C:\Users\ALSAKB\Desktop\C#\Groups\Groups\obj\Debug\Groups.Properties.Resources.resources
+C:\Users\ALSAKB\Desktop\C#\Groups\Groups\obj\Debug\Groups.csproj.GenerateResource.cache
+C:\Users\ALSAKB\Desktop\C#\Groups\Groups\obj\Debug\Groups.csproj.CoreCompileInputs.cache
+C:\Users\ALSAKB\Desktop\C#\Groups\Groups\obj\Debug\Groups.exe
+C:\Users\ALSAKB\Desktop\C#\Groups\Groups\obj\Debug\Groups.pdb
+C:\Users\ALSAKB\Desktop\C#\Groups\Groups\obj\Debug\Groups.UserControl1.resources
+C:\Users\ALSAKB\Desktop\C#\Groups\Groups\obj\Debug\Groups.UserControl2.resources
+C:\Users\ALSAKB\Desktop\C#\Groups\Groups\obj\Debug\Groups.modify.resources
+C:\Users\ALSAKB\Desktop\C#\Groups\Groups\obj\Debug\Groups.Registration.resources
